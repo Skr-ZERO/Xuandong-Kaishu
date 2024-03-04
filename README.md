@@ -33,3 +33,7 @@
 - 将该字体作为商品进行售卖或进行变相收费（包括但不限于积分下载，与其他字体捆绑售卖，设置任何权限门槛等）；
 - 用于违反国家法律和公序良俗的任何场景。
 - 在制作衍生字体时，字体名称使用“玄冬”“Xuandong”词语。
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Skr-ZERO/Xuandong-Kaishu.svg)](https://starchart.cc/Skr-ZERO/Xuandong-Kaishu)
