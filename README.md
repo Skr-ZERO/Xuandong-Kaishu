@@ -34,6 +34,6 @@
 - 用于违反国家法律和公序良俗的任何场景。
 - 在制作衍生字体时，字体名称使用“玄冬”“Xuandong”词语。
 
-## Stargazers over time
+## Star数趋势图
 
 [![Stargazers over time](https://starchart.cc/Skr-ZERO/Xuandong-Kaishu.svg)](https://starchart.cc/Skr-ZERO/Xuandong-Kaishu)
